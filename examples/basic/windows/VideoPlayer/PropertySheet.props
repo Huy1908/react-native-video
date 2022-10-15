@@ -7,7 +7,6 @@
     * right-click the project node
     * expand the Common Properties item
     * select the C++/WinRT property page
-
     For more advanced scenarios, and complete documentation, please see:
     https://github.com/Microsoft/xlang/tree/master/src/package/cppwinrt/nuget 
     -->
